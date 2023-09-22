@@ -31,5 +31,3 @@ File Format: The input files should be in FASTA format, a single-line descriptio
 Sequence ID: Each sequence within the files should have a unique identifier, which is specified in the description line (the line starting with '>'). The script uses these IDs to concatenate sequences across files.
 
 Sequence Length: All sequences within each fasta aligned file should have the same length. This is to ensure that the concatenation process, which is based on sequence positions, functions correctly.
-
-File Naming: It is recommended to name your files clearly, as the script uses file names to record sequence positions in the output summary.
