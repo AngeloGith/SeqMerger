@@ -7,7 +7,7 @@
 
 # Run   
 
-perl BioSeqMerger.pl file1 file2 .. > output.fasta  
+`perl BioSeqMerger.pl file1 file2 .. > output.fasta`
 
 # Description
 
