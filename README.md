@@ -1,4 +1,4 @@
-# # BioSeqMerger
+# BioSeqMerger
 
 # Requeriments 
 
@@ -11,7 +11,7 @@
 
 # Description
 
-This Perl script serves as a powerful tool for bioinformatics specialists working with genomic sequence data. An easy to use perl script "BioSeqMerger" is designed to concatenate sequences from multiple aligned FASTA files.
+An easy to use perl script "BioSeqMerger" is designed to concatenate sequences from multiple aligned FASTA files.
 
 # Key functionalities include:
 
