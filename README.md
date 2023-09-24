@@ -5,7 +5,7 @@
 * Bio::SeqIO
 * File::Basename
 
-# Run   
+# Usage    
 
 `perl BioSeqMerger.pl file1.fasta file2.fasta .. > output.fasta`
 
