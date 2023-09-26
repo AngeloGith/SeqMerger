@@ -4,7 +4,7 @@ use Bio::SeqIO;
 use File::Basename;
 
 #By Angelo Armijos Carrion.
-#run (perl BioSeqMerger.pl file1 file2 .. > output.fasta)
+#run (perl SeqMerger.pl file1 file2 .. > output.fasta)
 
 my %seqs;
 my %file_positions;
