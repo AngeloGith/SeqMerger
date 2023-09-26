@@ -11,7 +11,7 @@
 
 # Description
 
-An easy to use perl script "BioSeqMerger" is designed to concatenate sequences from multiple aligned FASTA files.
+SeqMerger is designed to concatenate sequences from multiple aligned FASTA files.
 
 # Key functionalities include:
 
