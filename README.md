@@ -1,4 +1,4 @@
-# BioSeqMerger
+# SeqMerger
 
 # Requeriments 
 
